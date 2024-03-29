@@ -1,6 +1,6 @@
 youtube-clone
 
-https://6512414b4c91201e4df0c99a--polite-platypus-9a72f2.netlify.app/
+https://youtube-clone-five-jet.vercel.app/
 
 ![Screenshot (86)](https://github.com/anilrai4001/youtube-clone/assets/79553966/f2802a9d-aef2-4553-9dd5-5011f53726e5)
 
